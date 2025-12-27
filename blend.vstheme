@@ -1,5 +1,5 @@
 <Themes>
-  <Theme Name="Blend" GUID="{7f9d388e-0782-4d65-a1df-d6a4f2e779ac}">
+  <Theme Name="Blend" GUID="{49912f52-1538-4dd2-81b4-db30a1a02b86}">
     <Category Name="ApplicationInsights" GUID="{fb17cf37-09ea-44a4-88a6-cd806fc6a24a}">
       <Color Name="ButtonBorder">
         <Background Type="CT_RAW" Source="FF4B76E7" />
@@ -9080,3 +9080,4 @@
     </Category>
   </Theme>
 </Themes>
+
